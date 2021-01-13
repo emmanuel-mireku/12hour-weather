@@ -1,0 +1,49 @@
+.weather-card {
+  color: black;
+  background-color: white;
+  border-radius: 5px;
+  display: grid;
+  margin: 1rem;
+  height: 20rem;
+  width: 12rem;
+  transition: all 0.5s linear;
+  .weather-image {
+    margin: 0 auto;
+  }
+  .weather-title,
+  .weather-date,
+  .high,
+  .low {
+    text-align: center;
+    position: relative;
+    margin: 1px;
+  }
+  .weather-date {
+    font-size: 0.8rem;
+  }
+
+  .high {
+    position: relative;
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: -20px;
+  }
+
+  .low {
+    text-align: center;
+  }
+
+  .weather-details {
+    float: right;
+    margin-right: 10px;
+    font-size: 0.75rem;
+  }
+
+  .space {
+    margin-right: 10px;
+  }
+
+  .weather-description {
+    text-align: center;
+  }
+}
