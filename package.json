@@ -1,5 +1,5 @@
 {
-  "homepage": "http://emmanuel-mireku.github.io/12hour-weather",
+  "homepage": "https://emmanuel-mireku.github.io/12hour-weather",
   "name": "12hour-weather",
   "version": "0.1.0",
   "private": true,
@@ -48,7 +48,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+http://github.com/emmanuel-mireku/12hour-weather.git"
+    "url": "git+https://github.com/emmanuel-mireku/12hour-weather.git"
   },
   "author": "",
   "license": "ISC",
